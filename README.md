@@ -19,7 +19,42 @@
 ![Screenshot_1615979177](https://user-images.githubusercontent.com/55308841/111462496-842d0180-8744-11eb-92cd-4a2949b4c549.png)
 
 
+# Home Scren
+
+![Screenshot_1615979123](https://user-images.githubusercontent.com/55308841/111462780-d706b900-8744-11eb-8f9b-f587992a9dba.png)
+
+
+
+# Customer Details
+
 ![Screenshot_1615979164](https://user-images.githubusercontent.com/55308841/111462574-99099500-8744-11eb-9eae-8f94e6e554d3.png)
 
+
+
+![Screenshot_1615979285](https://user-images.githubusercontent.com/55308841/111462804-dcfc9a00-8744-11eb-82c3-12d36b2640f2.png)
+
+
+![Screenshot_1615979199](https://user-images.githubusercontent.com/55308841/111462823-e259e480-8744-11eb-84af-99a8bd625bf1.png)
+
+
+
+# Transfer Money
+
+
+
 ![Screenshot_1615979168](https://user-images.githubusercontent.com/55308841/111462605-a161d000-8744-11eb-9ebd-13475d3a3d92.png)
+
+
+
+
+
+
+![Screenshot_1615979309](https://user-images.githubusercontent.com/55308841/111462795-da9a4000-8744-11eb-9b68-20c1f31d77db.png)
+
+
+
+
+
+
+
 
